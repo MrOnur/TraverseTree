@@ -1,0 +1,11 @@
+01 C 20.05 cmpe201 
+02 D 22.06 cmpe325   
+03 E 35.08 eeng217   
+04 C 45.37 eeng420   
+05 D 54.34 infe116 
+06 C cansu 18.02 ieng355  
+07 D goksu 29.05 econ201  
+04 C 45.37 eeng420   
+05 D 54.34 infe116 
+06 C cansu 18.02 ieng355  
+07 E goksu 29.05 econ201  
